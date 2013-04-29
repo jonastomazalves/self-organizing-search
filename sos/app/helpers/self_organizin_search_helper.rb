@@ -1,0 +1,2 @@
+module SelfOrganizinSearchHelper
+end
